@@ -1,0 +1,2 @@
+OnnxRuntime 1.11.0
+Opencv 4.5
